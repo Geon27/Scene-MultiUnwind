@@ -13,6 +13,7 @@
 		135F84BD291949CA00254333 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 135F84BB291949CA00254333 /* Main.storyboard */; };
 		135F84BF291949CA00254333 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 135F84BE291949CA00254333 /* Assets.xcassets */; };
 		135F84C2291949CA00254333 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 135F84C0291949CA00254333 /* LaunchScreen.storyboard */; };
+		13D477D3291CE5250023E410 /* Page2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13D477D2291CE5250023E410 /* Page2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		135F84BE291949CA00254333 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		135F84C1291949CA00254333 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		135F84C3291949CA00254333 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		13D477D2291CE5250023E410 /* Page2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				135F84B7291949CA00254333 /* SceneDelegate.swift */,
 				135F84B9291949CA00254333 /* ViewController.swift */,
 				135F84BB291949CA00254333 /* Main.storyboard */,
+				13D477D2291CE5250023E410 /* Page2ViewController.swift */,
 				135F84BE291949CA00254333 /* Assets.xcassets */,
 				135F84C0291949CA00254333 /* LaunchScreen.storyboard */,
 				135F84C3291949CA00254333 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				135F84BA291949CA00254333 /* ViewController.swift in Sources */,
 				135F84B6291949CA00254333 /* AppDelegate.swift in Sources */,
+				13D477D3291CE5250023E410 /* Page2ViewController.swift in Sources */,
 				135F84B8291949CA00254333 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
